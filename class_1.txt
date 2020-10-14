@@ -1,0 +1,15 @@
+Class: cooking instrument
+
+Attributes:
+maxCapacity (integer)
+employeeName (array)
+receivedMichelinStar (boolean)
+restaurantOpened (string)
+numberOfStaff (integer)
+numberOfCustomers (integer)
+
+Methods:
+printName (all caps employeeName)
+staffTocustomerRate (numberOfStaff divde by numberOfCustomers)
+staffNeeded (increase numberOfStaff)
+openSpaceForCustomer (maxCapacity minus numberOfCustomers)
