@@ -6,10 +6,10 @@ employeeName (array)
 receivedMichelinStar (boolean)
 restaurantOpened (string)
 numberOfStaff (integer)
-numberOfCustomers (integer)
+CurrentNumberOfCustomers (integer)
 
 Methods:
 printName (all caps employeeName)
-staffTocustomerRate (numberOfStaff divde by numberOfCustomers)
+customerToStaffRate  (numberOfCustomers divide numberOfStaff)
 staffNeeded (increase numberOfStaff)
 openSpaceForCustomer (maxCapacity minus numberOfCustomers)
