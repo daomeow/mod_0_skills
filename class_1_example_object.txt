@@ -1,0 +1,15 @@
+Object: Yang's Chinese Restaurant
+
+Attributes:
+maxCapacity: 50
+employeeName: ["Patti", "Bea", "Becky", "Melanie"]
+receivedMichelinStar: false
+restaurantOpened: "January 19, 1992"
+numberOfStaff: 10
+CurrentNumberOfCustomers: 2
+
+Methods:
+printName: ["PATTI", "BEA", "BECKY", "MELANIE"]
+customerToStaffRate: 10/2 = 5
+staffNeeded: 10+1 = 11
+openSpaceForCustomer: 50-2 = 48
