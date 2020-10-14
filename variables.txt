@@ -6,4 +6,4 @@ var num7 = 7
 var quotient = num7/num2
 var songs = ["Loved You Yesterday", "Poker Face", "I Like Big Butts"]
 var removed = songs.splice (0)
-count(songs)
+console.log(songs.length)
