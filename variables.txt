@@ -1,6 +1,6 @@
 var food = "ramen noodles"
 var isDelicious = true
-var food = "cold watermelon"
+food = "cold watermelon"
 var num2 = 2
 var num7 = 7
 var quotient = (num7/num2)
