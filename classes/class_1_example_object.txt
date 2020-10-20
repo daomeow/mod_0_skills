@@ -1,0 +1,17 @@
+Class: YangsRestaurantTrainingManual
+
+Attributes:
+chapterNamesInManual: ["introduction","menu","restaurant culture"]
+requiredEmployeeExam: false
+restaurantManualAuthor: "Patti Chung"
+numberOfPages: 45
+numberOfChapters: 3
+daysLeftToDeadline: 5
+numberOfNotePages: 1
+
+
+Methods:
+printAuthor: "PATTI CHUNG"
+getPagesToChapterRate: 45/3 = 15
+getNumberOfNotePages: 1+1 = 2
+getPagesTypedPerDay: 45/5 = 9

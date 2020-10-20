@@ -1,0 +1,16 @@
+Object: HongKongStation
+
+Attributes:
+entreeOffered: 50
+octoberSpecial: 0.2
+isOpenOnSunday: true
+kitchenStaff: 3
+frontOfHouseStaff: 5
+cartoonLogo: "panda with chopsticks"
+typeOfCourse: ["appetizer", "entree", "dessert"]
+
+Methods:
+getTotalStaff: 3+5 = 8
+pintMascot = "PANDA WITH CHOPSTICKS"
+getKitchenStaffToDishesRate: 50/3 = 16.67
+getOctoberSpecialPercentage: 0.2*100 = 20

@@ -1,0 +1,16 @@
+Class: Restaurant
+
+Attributes:
+entreesOffered (integer)
+octoberSpecial (integer)
+isOpenOnSunday (boolean)
+kitchenStaff (integer)
+frontOfHouseStaff (integer)
+cartoonLogo (string)
+typeOfCourse (array)
+
+Methods:
+getTotalStaff (kitchenStaff plus frontOfHouseStaff)
+pintMascot (all caps)
+getKitchenStaffToDishesRate (dishesOffered divide kitchenStaff)
+getOctoberSpecialPercentage (octoberSpecial multiply 100)

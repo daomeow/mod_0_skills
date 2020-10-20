@@ -1,0 +1,16 @@
+Class: RestaurantTrainingManual
+
+Attributes:
+chapterNamesInManual (array)
+requiredEmployeeExam (boolean)
+restaurantManualAuthor (string)
+numberOfPages (integer)
+numberOfChapters (integer)
+daysLeftToDeadline (integer)
+numberOfNotePages (integer)
+
+Methods:
+printAuthor (all caps restaurantManualAuthor)
+getPagesToChapterRate (numberOfPages divide numberOfChapters)
+getNumberOfNotePages (increase numberOfNotePages)
+getPagesTypedPerDay (numberOfPages divide daysLeftToDeadline)
